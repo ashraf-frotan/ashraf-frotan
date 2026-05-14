@@ -1,22 +1,57 @@
-### Hi there 👋
+# Hi there, I'm Ashraf Frotan! 👋
 
-<!--
-**ashraf-frotan/ashraf-frotan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraf-frotan&label=Profile%20views&color=0e75b6&style=flat" alt="ashraf-frotan" /> </p>
+I'm a passionate **Full-Stack Developer** with over 5 years of experience building scalable, performant, and modern web applications. I love turning innovative ideas into robust, user-friendly products that make a real-world impact.
 
- <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=ashraf-frotan&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraf-frotan&theme=onedark&hide_border=true"/>
-    </a>
+--- 
+
+### 🚀 What I Do
+
+I specialize in crafting clean, efficient, and intuitive web solutions. My expertise covers both frontend and backend development, focusing on:
+
+*   **Clean Architecture:** Designing systems that are maintainable and scalable.
+*   **Reusable Components:** Building modular code for faster development and consistency.
+*   **UI/UX Thinking:** Creating seamless and engaging user experiences.
+
+--- 
+
+### 🛠️ Tech Stack & Tools
+
+Here are some of the technologies I work with:
+
+**Frontend:**
+`React.js` `Vue.js` `Nuxt.js` `JavaScript` `TypeScript` `Tailwind CSS` `Vuetify` `CSS` `jQuery` `AJAX` `JSON` `Flutter`
+
+**Backend:**
+`Laravel` `PHP` `RESTful APIs` `Payment Integrations` `SQL` `MySQL` `PostgreSQL` `Database Design`
+
+**Programming Languages:**
+`Java` `Python` `C++` `C#` `Dart`
+
+**Tools:**
+`Git` `VS Code` `Postman` `Figma`
+
+--- 
+
+
+### 🗣️ Languages
+
+*   **Dari:** Native
+*   **English:** TOEFL 95
+*   **German:** A1 - Learning
+
+--- 
+
+### 🌱 Always Learning
+
+I'm constantly exploring new tools and improving my development workflow to stay at the forefront of technology.
+
+--- 
+
+### 🤝 Let's Connect!
+
+I'm always interested in new opportunities and exciting projects. Feel free to reach out if you have any questions or if you'd like to collaborate.
+
+*   **Portfolio:** [https://ashraf-frotan.vercel.app/en](https://ashraf-frotan.vercel.app/en)
+*   **LinkedIn:** [https://linkedin.com/in/ashraf-frotan](https://linkedin.com/in/ashraf-frotan) (Please replace with your actual LinkedIn URL)
+*   **Email:** ashraffrotan36@gmail.com
+
