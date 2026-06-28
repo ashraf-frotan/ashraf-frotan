@@ -6,7 +6,7 @@ I'm a passionate **Frontend Developer** with over 5 years of experience building
 
 ### 🚀 What I Do
 
-I specialize in crafting clean, efficient, and intuitive web solutions. My expertise covers frontend-focused and backend development, focusing on:
+I specialize in crafting clean, efficient, and intuitive web solutions. My expertise covers frontend-focused full-stack development, focusing on:
 
 *   **Clean Architecture:** Designing systems that are maintainable and scalable.
 *   **Reusable Components:** Building modular code for faster development and consistency.
