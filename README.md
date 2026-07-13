@@ -19,7 +19,7 @@ I specialize in crafting clean, efficient, and intuitive web solutions. My exper
 Here are some of the technologies I work with:
 
 **Frontend:**
-`React.js` `Next.js` `Vue.js` `Nuxt.js` `JavaScript` `TypeScript` `Tailwind CSS` `Vuetify` `CSS` `jQuery` `AJAX` `JSON` `Flutter`
+`React` `Next.js` `Vue` `Nuxt.js` `JavaScript` `TypeScript` `Tailwind CSS` `Vuetify` `CSS` `jQuery` `AJAX` `JSON` `Flutter`
 
 **Backend:**
 `Laravel` `PHP` `RESTful APIs` `Payment Integrations` `SQL` `MySQL` `PostgreSQL` `Database Design`
@@ -35,9 +35,9 @@ Here are some of the technologies I work with:
 
 ### 🗣️ Languages
 
-*   **Dari:** Native
 *   **English:** C1 - TOEFL 95
 *   **German:** A1 - Learning
+*   **Dari:** Native
 
 --- 
 
