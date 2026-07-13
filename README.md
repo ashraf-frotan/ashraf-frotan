@@ -36,7 +36,7 @@ Here are some of the technologies I work with:
 ### 🗣️ Languages
 
 *   **Dari:** Native
-*   **English:** TOEFL 95
+*   **English:** C1 - TOEFL 95
 *   **German:** A1 - Learning
 
 --- 
